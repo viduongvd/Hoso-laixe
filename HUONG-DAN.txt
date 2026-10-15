@@ -1,0 +1,8 @@
+HỒ SƠ TÀI XẾ FINAL
+
+1. Bản HTML riêng: mở trong Sitecase để thử offline.
+2. PWA: đưa nguyên các file trong thư mục này lên HTTPS (ví dụ GitHub Pages).
+3. Mở trang trên Safari iPhone -> Chia sẻ -> Thêm vào Màn hình chính.
+4. Truy cập lần đầu khi có mạng và để trang nạp xong; những lần sau có thể dùng offline.
+5. Dữ liệu và ảnh được xử lý cục bộ trong trình duyệt, không tải lên server.
+6. Họ tên tự đổi thành chữ in hoa; mã MSNV có tiền tố HTL cố định, nhập phần số ví dụ 0001.
